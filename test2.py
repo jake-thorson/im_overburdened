@@ -5,7 +5,6 @@ import streamlit as st
 import xgboost as xgb
 from xgboost import XGBClassifier
 import numpy as np
-import matplotlib.pyplot as plt
 from dateutil.relativedelta import relativedelta
 import altair as alt
 from sklearn import linear_model
