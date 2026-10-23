@@ -15,9 +15,6 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score
 from sklearn.ensemble import RandomForestRegressor
 
-
-
-
 st.set_page_config(page_title='stonks', layout='wide')
 
 def get_ticky(ticky):
