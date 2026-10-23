@@ -4,6 +4,5 @@ datetime
 streamlit
 xgboost
 numpy
-matplotlib.pyplot
 altair
 sklearn
